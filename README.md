@@ -1,4 +1,3 @@
 # XAL token cipher
 
-Python implementation of xal token generation and decoding
-The XAL token serves as a fingerprint that contains browser data
+The XAL token serves as a fingerprint that contains browser data. This is python implementation of xal token generation (thus forging) and decoding
